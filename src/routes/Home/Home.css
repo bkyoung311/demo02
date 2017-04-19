@@ -1,0 +1,20 @@
+body {
+    height: 980px;
+    width: 100%;
+    background-image: url("../../img/background.jpg");
+    text-align: center;
+}
+
+.Home .title {
+    position:absolute;
+    transition: .5s ease;
+    top: 15%;
+    padding : 50px;
+}
+
+.ui.button.startButton {
+    position:absolute;
+    transition: .5s ease;
+    top: 50%;
+    left: 50%;    
+}
